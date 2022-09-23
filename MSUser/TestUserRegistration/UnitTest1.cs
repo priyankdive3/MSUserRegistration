@@ -87,7 +87,7 @@ namespace MSUser
             Console.WriteLine(actual);
         }
         [TestMethod]
-        public void TestPasswordRuleFour()
+        public void Rule4()
         {
             string expected = "PriyaDive@1103";
 
